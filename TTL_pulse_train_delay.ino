@@ -1,5 +1,14 @@
-int noPulses = 350;      //number of pulses
-int PulseWidth = 10;   //time width of the pulse in ms
+/*
+Auto injection
+
+This code enables to send desired number of pulses with adjustable pulse width and delay.
+
+Created by Petr Pospisil on 18 July 2014
+
+*/
+
+int noPulses = 350;     //number of pulses
+int PulseWidth = 10;    //time width of the pulse in ms
 int PulseInt = 5000;    //interval between two pulses in ms (start to start)
 int TTL = 10;           //pin out for the TTL pulse 
 int x = 0;
