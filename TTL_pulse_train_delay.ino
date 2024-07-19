@@ -3,7 +3,7 @@ Auto injection
 
 This code enables to send desired number of pulses with adjustable pulse width and delay.
 
-Created by Petr Pospisil on 18 July 2014
+Created by Petr Pospisil on 1 July 2024
 
 */
 
